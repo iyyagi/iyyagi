@@ -13,6 +13,6 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-	<a href="https://iyyagi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+	<a href="https://iyyagi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Tistory&logoColor=white"/></a>
  	
 </p>
