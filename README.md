@@ -1,4 +1,4 @@
-<h3 align="center">안녕하세요. 새로운 도전을 좋아하는 뼝이 입니다.</h3>
+<h3 align="center">안녕하세요. 새로운 도전을 좋아하는 강병천 입니다.</h3>
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
